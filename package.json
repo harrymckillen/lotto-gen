@@ -1,0 +1,19 @@
+{
+  "name": "lotto-gen",
+  "version": "1.0.0",
+  "description": "Generates lotto numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "author": "Harry McK",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "commander": "^3.0.0",
+    "lodash": "^4.17.15"
+  }
+}
