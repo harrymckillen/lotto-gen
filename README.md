@@ -13,16 +13,18 @@ A stupid node tool to generate a random selection of numbers for the Euromillion
 
 ## Usage Examples
 * `node index.js -t e -l 4`
+	* Outputs 4 lines for the Euromillions
 * `node index.js -t euro -l 4`
-Outputs 4 lines for the Euromillions
-
+	* Outputs 4 lines for the Euromillions
 * `node index.js -t i -l 2`
+	* Outputs 2 lines for the Irish Lottery
 * `node index.js -t irish -l 2`
-Outputs 2 lines for the Irish Lottery
+	* Outputs 2 lines for the Irish Lottery
 
 * `node index.js -t i`
+	* Also outputs 2 lines for the Irish Lottery
 * `node index.js -t irish`
-Also outputs 2 lines for the Irish Lottery
+	* Also outputs 2 lines for the Irish Lottery
 
 ## Help
 
